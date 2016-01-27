@@ -11,9 +11,20 @@
 05 - Means-End Analysis
 =======================
 
+.. image:: https://dl.dropbox.com/s/uud7z2pqx8hflp2/Screenshot%202016-01-27%2001.33.06.png
+   :align: center
+   :height: 300
+   :width: 450
+
 
 01 - Preview
 ------------
+
+.. image:: https://dl.dropbox.com/s/wf0e10isgs9580q/Screenshot%202016-01-27%2001.34.00.png
+   :align: center
+   :height: 300
+   :width: 450
+
 
 Today we will discuss two other very general AR methods of problem solving called means end analysis and problem
 reduction.
@@ -37,6 +48,12 @@ reduction.
 
 02 - Exercise The Block Problem
 -------------------------------
+
+.. image:: https://dl.dropbox.com/s/1zlv119zq9efmon/Screenshot%202016-01-27%2001.36.21.png
+   :align: center
+   :height: 300
+   :width: 450
+
 
 To understand a method of means and analysis. Let us look at this blocks word problem. This is a very famous problem in
 AI. It has occurred again and again. And almost every textbook in AI has this problem. You're given a table on which
@@ -86,6 +103,17 @@ operations?
 04 - State Spaces
 -----------------
 
+.. image:: https://dl.dropbox.com/s/gb0l97nvo1f84up/Screenshot%202016-01-27%2001.38.07.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image:: https://dl.dropbox.com/s/u5sjf84e0mbwabl/Screenshot%202016-01-27%2001.39.25.png
+   :align: center
+   :height: 300
+   :width: 450
+
 So, we can imagine problem solving as occurring in a state space.
 
 
@@ -118,6 +146,18 @@ How does the AI agent know which operation to select at this particular state?
 
 05 - Differences in State Spaces
 --------------------------------
+
+.. image:: https://dl.dropbox.com/s/s93r8pk129lb6hq/Screenshot%202016-01-27%2001.42.57.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image:: https://dl.dropbox.com/s/rjxc0jbr2x8qy0t/Screenshot%202016-01-27%2001.44.00.png
+   :align: center
+   :height: 300
+   :width: 450
+
 
 One way of thinking about this is to talk in terms of differences. This chart illustrates the differences between
 different states and the goal state. So, for example, if the current state was this one then this red line illustrates
@@ -171,6 +211,12 @@ because at each time it reduces a difference
 06 - Process of Means End Analysis
 ----------------------------------
 
+.. image:: https://dl.dropbox.com/s/wt3g5ys92sy6st7/Screenshot%202016-01-27%2001.45.03.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 We can summarize the means-ends analysis method like this.
 
 
@@ -183,6 +229,11 @@ analysis method in summary.
 
 07 - Exercise Block Problem I
 -----------------------------
+
+.. image:: https://dl.dropbox.com/s/hwsvq8c6x58nhwb/Screenshot%202016-01-27%2001.46.27.png
+   :align: center
+   :height: 300
+   :width: 450
 
 To understand more deeply the properties of means and analysis, let us look at another, slightly more complicated
 example. In this example, there are four blocks instead of the three in the previous example. A, B,
@@ -216,6 +267,11 @@ in these boxes.
 09 - Exercise Block Problem II
 ------------------------------
 
+.. image:: https://dl.dropbox.com/s/4hqap610bnzokqh/Screenshot%202016-01-27%2001.47.51.png
+   :align: center
+   :height: 300
+   :width: 450
+
 Okay now for each of these states that is possible from the initial state what are the differences as compared to the
 goal state?
 
@@ -232,8 +288,12 @@ Please write down your answers in these boxes.
 11 - Exercise Block Problem III
 -------------------------------
 
-Given these three choices which operation would means-end analysis choose?
+.. image:: https://dl.dropbox.com/s/av9b73lbnmbje4d/Screenshot%202016-01-27%2001.49.04.png
+   :align: center
+   :height: 300
+   :width: 450
 
+Given these three choices which operation would means-end analysis choose?
 
 12 - Exercise Block Problem III
 -------------------------------
@@ -243,6 +303,11 @@ Given these three choices which operation would means-end analysis choose?
 
 13 - Exercise Block Problem IV
 ------------------------------
+
+.. image:: https://dl.dropbox.com/s/vea6bs88websymo/Screenshot%202016-01-27%2001.50.15.png
+   :align: center
+   :height: 300
+   :width: 450
 
 Given this current state, we can apply means ends analysis veritably.
 
@@ -263,6 +328,11 @@ difference to the goal? Which is given here.
 
 15 - Exercise Block Problem V
 -----------------------------
+
+.. image:: https://dl.dropbox.com/s/u6b81m2mmxi404q/Screenshot%202016-01-27%2001.51.54.png
+   :align: center
+   :height: 300
+   :width: 450
 
 So, the operation of putting A on B will bring us to this state.
 
@@ -315,6 +385,11 @@ this class of problems quite well.
 17 - Assignment Means-Ends Analysis
 -----------------------------------
 
+.. image:: https://dl.dropbox.com/s/7ul3stbfhgpl3bx/Screenshot%202016-01-27%2001.54.38.png
+   :align: center
+   :height: 300
+   :width: 450
+
 So how do you use means ends analysis to solve Raven's Progressive Matrices?
 
 
@@ -336,6 +411,11 @@ doing that aren't necessarily under this topic that would actually make the prob
 
 18 - Problem Reduction
 ----------------------
+
+.. image:: https://dl.dropbox.com/s/517xm0r04cfv1k2/Screenshot%202016-01-27%2001.55.35.png
+   :align: center
+   :height: 300
+   :width: 450
 
 Let us now turn to the third problem solving method under this topic called problem reduction. The method of problem
 reduction actually is quite intuitive.
@@ -362,6 +442,13 @@ That's how problem reduction works.
 
 19 - Problem Reduction in the Block Problem
 -------------------------------------------
+
+.. image:: https://dl.dropbox.com/s/vva9p6y5jbqdiyh/Screenshot%202016-01-27%2001.57.56.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 Let us start from where we left off when we finished [UNKNOWN] analysis.
 
@@ -396,9 +483,13 @@ states, C on table, D on table, because those are the blocks that occur in the g
 20 - Exercise Problem Reduction I
 ---------------------------------
 
+.. image:: https://dl.dropbox.com/s/tnwwx1jl5id6p6d/Screenshot%202016-01-27%2001.58.27.png
+   :align: center
+   :height: 300
+   :width: 450
+
 So given this is a current state, what successor states are possible if we were to apply means and analysis? Please fill
 in these boxes.
-
 
 21 - Exercise Problem Reduction I
 ---------------------------------
@@ -408,6 +499,11 @@ in these boxes.
 
 22 - Exercise Problem Reduction II
 ----------------------------------
+
+.. image:: https://dl.dropbox.com/s/t1zcfbhdw1pjxuh/Screenshot%202016-01-27%2001.59.36.png
+   :align: center
+   :height: 300
+   :width: 450
 
 Let us now calculate the difference from each of the states to the goal state.
 
@@ -425,6 +521,12 @@ better path to take.
 24 - Exercise Problem Reduction III
 -----------------------------------
 
+.. image:: https://dl.dropbox.com/s/qs3m1pme01li281/Screenshot%202016-01-27%2002.00.52.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 So if we make the move that we had at the end of the last shot, we'll get this state. So now we need to go from this
 state to the goal state.
 
@@ -441,6 +543,13 @@ that is fine, but you will also note that this problem reduction helps us make p
 
 26 - Exercise Problem Reduction III
 -----------------------------------
+
+.. image:: https://dl.dropbox.com/s/zwf8x3vsbllv7y7/Screenshot%202016-01-27%2002.02.07.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 So the application of the last move in the previous shot will bring us to this state. In this state the the sub-goal C
 over D has been achieved. Now that we've achieved the first sub-goal, we can worry about achieving the other sub-goals.
@@ -475,6 +584,12 @@ does not provide guarantee of successes.
 28 - Means-Ends Analysis for Ravens
 -----------------------------------
 
+.. image:: https://dl.dropbox.com/s/33sle3hfa6yug2c/Screenshot%202016-01-27%2002.05.16.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 >> That's good analysis, David. Let's go one step further.
 
 
@@ -507,6 +622,11 @@ knowledge representation is weak.
 29 - Assignment Problem Reduction
 ---------------------------------
 
+.. image:: https://dl.dropbox.com/s/wk9ubbux8qe06tv/Screenshot%202016-01-27%2002.08.07.png
+   :align: center
+   :height: 300
+   :width: 450
+
 So how would you apply a problem reduction to Raven's Progressive Matrices?
 
 
@@ -531,6 +651,11 @@ And how does that actually help you solve these problems better?
 
 30 - Wrap Up
 ------------
+
+.. image:: https://dl.dropbox.com/s/t0zssql1uuoqiqq/Screenshot%202016-01-27%2002.08.49.png
+   :align: center
+   :height: 300
+   :width: 450
 
 So let's wrap up what we've talked about today.
 
@@ -570,6 +695,13 @@ because they don't require a lot of knowledge.
 
 32 - Final Quiz
 ---------------
+
+.. image:: https://dl.dropbox.com/s/5o87264k5wb5w8a/Screenshot%202016-01-27%2002.10.54.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 We're at the end of this lesson.
 
