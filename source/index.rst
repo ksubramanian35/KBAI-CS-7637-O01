@@ -16,6 +16,7 @@ Contents:
    03---semantic-networks.rst
    04---generate-&-test.rst
    05---means-end-analysis.rst
+   06---production-systems.rst
    07---frames.rst
    08---learning-by-recording-cases.rst
    09---case-based-reasoning.rst
