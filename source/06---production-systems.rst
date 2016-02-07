@@ -7,8 +7,8 @@
 .. description: 
 .. type: text
 
-Production Systems
-==================
+06 - Production Systems
+=======================
 
 
 01 - Preview
@@ -883,5 +883,3 @@ So we are now at the final quiz for this particular lesson. What did you learn i
 ---------------
 
 And thank you for doing it.
-
-
