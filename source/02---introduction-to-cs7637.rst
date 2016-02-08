@@ -14,11 +14,13 @@
 01 - Preview
 ------------
 
-In this lesson, we'll talk most specifically about what you should expect from
+.. image:: https://dl.dropbox.com/s/as75qgnhdj46mx3/Screenshot%202016-02-07%2023.37.28.png
+   :align: center
+   :height: 300
+   :width: 450
 
-
-CS7637. We'll start by talking about the learning goals, the learning outcomes, and the learning strategies that we'll
-use for this class.
+In this lesson, we'll talk most specifically about what you should expect from CS7637. We'll start by talking about the
+learning goals, the learning outcomes, and the learning strategies that we'll use for this class.
 
 
 Then we'll discuss the class projects and assessments. That will lead us to talking about something called Computational
@@ -37,6 +39,13 @@ lookout for them.
 02 - Class Goals
 ----------------
 
+.. image:: https://dl.dropbox.com/s/t45f1a50zwyja8d/Screenshot%202016-02-07%2023.38.35.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 There are four major learning goals for this class. First, you'll learn about the core methods of knowledge-based AI.
 These methods include schemes for structured knowledge representation, methods for memory organization, methods for
 reasoning, methods for learning, [UNKNOWN] architectures as well as methods for meta reasoning. Meta reasoning is
@@ -49,6 +58,13 @@ to generate testable hypothesis about human cognition.
 
 03 - Class Outcomes
 -------------------
+
+.. image:: https://dl.dropbox.com/s/6p11t69lpp7riik/Screenshot%202016-02-07%2023.39.46.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 What are the learning outcomes of this course? At the conclusion of this class, you will be able to do three primary
 things. First, you'll be able to design, implement and evaluate and describe knowledge-based AIs. The design and
@@ -64,6 +80,13 @@ fourth learning goal.
 
 04 - Class Assignments
 ----------------------
+
+.. image:: https://dl.dropbox.com/s/ssogh1ig8vuhuat/Screenshot%202016-02-07%2023.40.43.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 During this course, you'll complete a variety of different kind of assessments.
 
@@ -89,6 +112,13 @@ get a feel for how everyone is doing and how can we help improve learning
 
 05 - Class Strategies
 ---------------------
+
+.. image:: https://dl.dropbox.com/s/katl85ltudji0ma/Screenshot%202016-02-07%2023.42.04.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 In this class we'll use five main learning strategies. First, Learning by
 
@@ -121,6 +151,11 @@ part of the project. We'll also use other learning strategies as needed, such as
 06 - Introduction to Computational Psychometrics
 ------------------------------------------------
 
+.. image:: https://dl.dropbox.com/s/ukpx6yy3i8xkmen/Screenshot%202016-02-07%2023.43.14.png
+   :align: center
+   :height: 300
+   :width: 450
+
 Let us talk about Computational Psychometrics a little bit.
 
 
@@ -145,6 +180,20 @@ will want to use this agents to reflect on how humans might be addressing the sa
 07 - Ravens Progressive Matrices
 --------------------------------
 
+.. image:: https://dl.dropbox.com/s/t9zluihtqoc2faa/Screenshot%202016-02-07%2023.44.12.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image::  https://dl.dropbox.com/s/82kyoplrzjh0y8q/Screenshot%202016-02-07%2023.44.57.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
+
 The class projects will be based on the Raven's Progressive Matrices test of intelligence. This test was written in the
 1930s to examine general human intelligence. It consists of 60 multiple-choice visual analogy problems.
 
@@ -159,6 +208,13 @@ appear in the Raven's Test of Intelligence. Let's look at a few sample problems 
 
 08 - 2x1 Matrices I
 -------------------
+
+.. image:: https://dl.dropbox.com/s/r4htucvez4sg751/Screenshot%202016-02-07%2023.46.08.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 Let us consider an example. We are shown initially three images, A, B and
 
@@ -185,6 +241,13 @@ David, answered this problem. The big question for us would be, how to write a a
 10 - 2x1 Matrices II
 --------------------
 
+.. image:: https://dl.dropbox.com/s/k3coowmcma74ax9/Screenshot%202016-02-07%2023.47.07.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 The previous problem was pretty simple. Let's try a slightly harder problem.
 
 
@@ -194,6 +257,13 @@ into D?
 
 11 - 2x1 Matrices II
 --------------------
+
+.. image:: https://dl.dropbox.com/s/ai4j573lqwz2zb2/Screenshot%202016-02-07%2023.48.28.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 >> This of course, raises another issue. How do we do it?
 
@@ -213,6 +283,13 @@ and see if it matches. Two different strategies
 12 - 2x1 Matrices III
 ---------------------
 
+.. image:: https://dl.dropbox.com/s/i8hm79qtyo99j09/Screenshot%202016-02-08%2007.25.13.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 Let's try an even harder problem.
 
 
@@ -221,6 +298,13 @@ And as you solve this problem, think a little bit about how do you go about solv
 
 13 - 2x1 Matrices III
 ---------------------
+
+.. image:: https://dl.dropbox.com/s/sf8mpr1i59va13p/Screenshot%202016-02-08%2007.26.12.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 What do you think is the correct answer, David?
 
@@ -267,6 +351,13 @@ For that one, the test succeeded, and you accepted it.
 14 - 2x1 Matrices IV
 --------------------
 
+.. image:: https://dl.dropbox.com/s/qszbrepyf8trjh2/Screenshot%202016-02-08%2007.26.58.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 I like this problem.
 
 
@@ -278,6 +369,13 @@ Everyone, try to solve this one.
 
 15 - 2x1 Matrices IV
 --------------------
+
+.. image:: https://dl.dropbox.com/s/n01w3vggn32mva3/Screenshot%202016-02-08%2007.29.56.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 Okay.
 
@@ -338,6 +436,13 @@ Your AI program will[br]address this problem
 16 - 2x2 Ravens Progressive Matrix I
 ------------------------------------
 
+.. image:: https://dl.dropbox.com/s/3qnghbydemxg7tz/Screenshot%202016-02-08%2007.31.18.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 Okay, here are some two by two problems.
 
 
@@ -365,6 +470,13 @@ So it's not just the horizontal[br]relationship that counts but it's also the ve
 
 17 - 2x2 Ravens Progressive Matrix I
 ------------------------------------
+
+.. image:: https://dl.dropbox.com/s/tdktkfanutlw5w0/Screenshot%202016-02-08%2007.32.02.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 Okay David, are you ready for this one?
 
@@ -396,6 +508,13 @@ Let's see how you will do[br]on a harder problem David.
 18 - 2x2 Ravens Progressive Matrix II
 -------------------------------------
 
+.. image:: https://dl.dropbox.com/s/lqx44fsc2xd29oq/Screenshot%202016-02-08%2007.32.33.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 Okay, here is a slightly harder problem.
 
 
@@ -404,6 +523,13 @@ Why don't we all try to solve it?
 
 19 - 2x2 Ravens Progressive Matrix II
 -------------------------------------
+
+.. image:: https://dl.dropbox.com/s/79a3f5e28vpg8n5/Screenshot%202016-02-08%2007.34.09.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 What do you think is the right[br]answer to this one, David?
 
@@ -482,11 +608,25 @@ What reason strategies would allow[br]it to generate plausible answers?
 20 - 2x2 Ravens Progressive Matrix III
 --------------------------------------
 
+.. image:: https://dl.dropbox.com/s/u5arkhxpotasmuw/Screenshot%202016-02-08%2007.34.53.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 Let us try one more problem[br]from this two by two set.
 
 
 21 - 2x2 Ravens Progressive Matrix III
 --------------------------------------
+
+.. image:: https://dl.dropbox.com/s/9ju5mew86qe2h1q/Screenshot%202016-02-08%2007.36.56.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 For this one, David,[br]what do you think is the right answer?
 
@@ -567,6 +707,13 @@ If we add that additional constraint, then the choice between 2 and[br]5 becomes
 22 - 3x3 Ravens Progressive Matrix I
 ------------------------------------
 
+.. image:: https://dl.dropbox.com/s/j091867yb6v6sht/Screenshot%202016-02-08%2007.41.13.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 Now let us look at some[br]three by three problems.
 
 
@@ -603,6 +750,13 @@ through six to put under the square?
 
 23 - 3x3 Ravens Progressive Matrix I
 ------------------------------------
+
+.. image:: https://dl.dropbox.com/s/fbt2z420p9y8r3v/Screenshot%202016-02-08%2007.42.10.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 What do you think is[br]the right answer David?
 
@@ -662,6 +816,13 @@ If so, how would it do that induction?
 24 - 3x3 Ravens Progressive Matrix II
 -------------------------------------
 
+.. image:: https://dl.dropbox.com/s/jgut0wr5czvysgh/Screenshot%202016-02-08%2007.42.55.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 Okay, let's try a harder one.
 
 
@@ -682,6 +843,13 @@ You're given the six[br]choices to the right.
 
 25 - 3x3 Ravens Progressive Matrix II
 -------------------------------------
+
+.. image:: https://dl.dropbox.com/s/xrpnavo2sfmiebv/Screenshot%202016-02-08%2007.44.46.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 Okay, David, are you ready for this one?
 
@@ -805,6 +973,13 @@ That's going from the AI side[br]to the cognitive science side.
 26 - Exercise What is intelligence
 ----------------------------------
 
+.. image:: https://dl.dropbox.com/s/b23wevc1he3llih/Screenshot%202016-02-08%2007.46.58.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 If you are designing a AI agent[br]that can take an intelligence test.
 
 
@@ -845,6 +1020,11 @@ And knowledge based AI, will take the view that knowledge is[br]central to human
 
 28 - Principles of CS7637
 -------------------------
+
+.. image:: https://dl.dropbox.com/s/7vrlteabrqdwjvg/Screenshot%202016-02-08%2007.49.38.png
+   :align: center
+   :height: 300
+   :width: 450
 
 Our discussion of knowledge-based[br]agents in this CS7637 class is organized around seven principals.
 
@@ -923,6 +1103,13 @@ So we highly recommend that you[br]take a moment, pause the video and read over 
 29 - Readings
 -------------
 
+.. image:: https://dl.dropbox.com/s/85mlvscqdx617cl/Screenshot%202016-02-08%2007.52.34.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 Throughout this course, we will be[br]using materials drawn from a number of different textbooks and papers.
 
 
@@ -948,6 +1135,11 @@ these text books and the specific references at[br]the end of each lesson.
 
 30 - Wrap Up
 ------------
+
+.. image:: https://dl.dropbox.com/s/1mn6bx4zxw8k1rk/Screenshot%202016-02-08%2007.53.39.png
+   :align: center
+   :height: 300
+   :width: 450
 
 Today we started off by discussing[br]the goals, outcomes, and learning strategies for this class.
 
@@ -1018,6 +1210,13 @@ reasoning.
 
 32 - Final Quiz
 ---------------
+
+.. image:: https://dl.dropbox.com/s/5la4kkj4ql8fq90/Screenshot%202016-02-08%2007.55.38.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 And now to the quiz at[br]the end of this lesson.
 

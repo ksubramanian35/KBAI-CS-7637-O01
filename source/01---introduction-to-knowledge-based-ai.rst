@@ -26,6 +26,17 @@ We want to understand how students learn in online classrooms. So if you have an
 02 - Preview
 ------------
 
+.. image:: https://dl.dropbox.com/s/vhhih7rip3md8yy/Screenshot%202016-02-07%2021.18.56.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image:: https://dl.dropbox.com/s/ae4yd94ylaaaopq/Screenshot%202016-02-07%2021.19.51.png
+   :align: center
+   :height: 300
+   :width: 450
+
 So welcome to 7637 Knowledge Based AI. At the beginning of each lesson, we'll briefly introduce a topic as shown in the
 graphics to the right.
 
@@ -46,6 +57,13 @@ Finally, we'll look at the topics that we'll cover in this course in detail.
 
 03 - Conundrums in AI
 ---------------------
+
+.. image:: https://dl.dropbox.com/s/5t69k8xwqm1lymh/Screenshot%202016-02-07%2021.21.49.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 Let's start a recognition today. We're discussing some of the biggest problems in AI. We obviously are not going to
 solve all of them today, but it's good to start with a big picture. AI has several conundrums,
@@ -85,6 +103,11 @@ How then can we get an AI agent to ever explain or justify it's decisions?
 04 - Characteristics of AI Problems
 -----------------------------------
 
+.. image:: https://dl.dropbox.com/s/p3mbxd347haf34n/Screenshot%202016-02-07%2021.30.01.png
+   :align: center
+   :height: 300
+   :width: 450
+
 I hope our discussion of the big problems in AI didn't scare you off, let's bring the discussion down, closer to work.
 
 
@@ -99,6 +122,13 @@ address air problems with these characteristics, those are the challenges we'll 
 
 05 - Characteristics of AI Agents
 ---------------------------------
+
+.. image:: https://dl.dropbox.com/s/y5kgwdfqflo67d1/Screenshot%202016-02-07%2021.31.25.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 In addition to AI problems having several characteristics,
 
@@ -119,6 +149,12 @@ the question then becomes, how can AI agents with such bounded rationality addre
 06 - Exercise What are AI Problems
 ----------------------------------
 
+.. image:: https://dl.dropbox.com/s/sng3ear1hgrrmyh/Screenshot%202016-02-07%2021.37.09.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 Now that we have talked about the characteristics of AI, agents in AI problems.
 
 
@@ -136,6 +172,11 @@ just focus on the first one: how to design an AI agent that can answer Jeopardy 
 08 - Exercise AI in Practice Watson
 -----------------------------------
 
+.. image::  https://dl.dropbox.com/s/qqrkvk9mrneakjx/Screenshot%202016-02-07%2021.39.46.png
+   :align: center
+   :height: 300
+   :width: 450
+
 >> What is event horizon?
 
 
@@ -147,6 +188,17 @@ just focus on the first one: how to design an AI agent that can answer Jeopardy 
 
 10 - What is Knowledge-Based AI
 -------------------------------
+
+.. image::  https://dl.dropbox.com/s/y76e93w3z1gsqzw/Screenshot%202016-02-07%2021.43.08.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image:: https://dl.dropbox.com/s/s3m4y25oe9dla54/Screenshot%202016-02-07%2021.43.43.png
+   :align: center
+   :height: 300
+   :width: 450
 
 Let us look at the processes that Watson may be using a little bit more closely.
 
@@ -205,6 +257,20 @@ deliberation, but the agent architecture also includes metacognition and reactio
 
 11 - Foundations The Four Schools of AI
 ---------------------------------------
+
+.. image:: https://dl.dropbox.com/s/qgo9ty6wnbig4bi/Screenshot%202016-02-07%2021.53.05.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image::  https://dl.dropbox.com/s/x3vhqf23th4q5id/Screenshot%202016-02-07%2021.58.10.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 
 Another way of understanding[br]what is knowledge based AI, is to contrast it with the other[br]schools of thought in
 AI.
@@ -320,6 +386,13 @@ And if,[br]if you really are interested in this, this is something where we're[b
 12 - Exercise What is KBAI
 --------------------------
 
+.. image:: https://dl.dropbox.com/s/2qa2x4hpc8pucj1/Screenshot%202016-02-07%2023.01.19.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 >> What do you think? Do you agree with David? [BLANK_AUDIO]
 
 
@@ -334,6 +407,13 @@ cognition. This is one of the patterns of knowledge-based data.
 14 - Exercise The Four Schools of AI
 ------------------------------------
 
+.. image:: https://dl.dropbox.com/s/uogyb9xufa848xi/Screenshot%202016-02-07%2023.02.26.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 Let us do an exercise together. Once again, we have the four quadrants shown here, and at the top left are four
 compression artifacts. I'm sure you're familiar with all four of them. C-3PO is a fictitious artifact from Star Wars.
 
@@ -344,6 +424,13 @@ Can we put these four artifacts in the quadrants to which they best belong?
 15 - Exercise The Four Schools of AI
 ------------------------------------
 
+.. image:: https://dl.dropbox.com/s/yntb257lsitesid/Screenshot%202016-02-07%2023.03.10.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 >> So if you'd like to discuss where these technologies belong on these spectrums or, perhaps, discuss where some other
 AI technologies that you're familiar with belong on these spectrums, feel free to head on over to our forums where you
 can bring up your own technologies and discuss the different. Ways in which they fit into the broader school of AI.
@@ -351,6 +438,13 @@ can bring up your own technologies and discuss the different. Ways in which they
 
 16 - What are Cognitive Systems
 -------------------------------
+
+.. image:: https://dl.dropbox.com/s/pc5bqrewo60jm2p/Screenshot%202016-02-07%2023.05.06.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 I'm sure you have noticed that this class has a subtitle, cognitive systems.
 
@@ -368,6 +462,33 @@ We will be talking about thinking and acting, but we will always be concerned wi
 
 17 - Cognitive System Architecture
 ----------------------------------
+
+.. image:: https://dl.dropbox.com/s/pge50gf6ccyynfj/Screenshot%202016-02-07%2023.07.03.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image:: https://dl.dropbox.com/s/sz677lh1diuwz0e/Screenshot%202016-02-07%2023.08.06.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image:: https://dl.dropbox.com/s/afrs6jiqbd35zki/Screenshot%202016-02-07%2023.09.04.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image:: https://dl.dropbox.com/s/0wlayzlvd3d5o5i/Screenshot%202016-02-07%2023.10.07.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
+
 
 So let us take a look at what is a cognitive system.
 
@@ -471,6 +592,59 @@ architecture many times in this course.
 18 - Topics in KBAI
 -------------------
 
+.. image:: https://dl.dropbox.com/s/9z8lynhypyr16rt/Screenshot%202016-02-07%2023.12.37.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image:: https://dl.dropbox.com/s/nhsg5srrv1z3nja/Screenshot%202016-02-07%2023.13.25.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image:: https://dl.dropbox.com/s/99x7f8de6ch9ux9/Screenshot%202016-02-07%2023.14.38.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image:: https://dl.dropbox.com/s/yzyd62gjmtp3fmz/Screenshot%202016-02-07%2023.15.17.png
+   :align: center
+   :height: 300
+   :width: 450
+
+.. image:: https://dl.dropbox.com/s/ocr2adnun698eo7/Screenshot%202016-02-07%2023.16.05.png
+   :align: center
+   :height: 300
+   :width: 450
+
+.. image:: https://dl.dropbox.com/s/eyhswdeie14ztdf/Screenshot%202016-02-07%2023.16.30.png
+   :align: center
+   :height: 300
+   :width: 450
+
+.. image:: https://dl.dropbox.com/s/pmhme4lyyt4fhh3/Screenshot%202016-02-07%2023.17.01.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image:: https://dl.dropbox.com/s/ouws4ry1c5nmwpe/Screenshot%202016-02-07%2023.17.23.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+.. image:: https://dl.dropbox.com/s/e0quc01vavysosy/Screenshot%202016-02-07%2023.17.42.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
+
 We have organized the materials in this course, into eight major units, this chart illustrates those eight units. So
 starting from the top left, the first unit has to do with Fundamentals of presentation and recent, Panning,
 
@@ -572,6 +746,13 @@ Metacognition. And, in this particular course, we'll talk about all of them toge
 19 - Wrap Up
 ------------
 
+.. image:: https://dl.dropbox.com/s/233n7xuvmk714gv/Screenshot%202016-02-07%2023.19.27.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
+
 So at the end of every lesson, I will briefly recap what we talked about during that lesson and try to tie it into some
 future topics.
 
@@ -597,6 +778,13 @@ connections will serve this purpose.
 
 21 - Final Quiz
 ---------------
+
+.. image:: https://dl.dropbox.com/s/gyhp4ml7b92yfnm/Screenshot%202016-02-07%2023.20.17.png
+   :align: center
+   :height: 300
+   :width: 450
+
+
 
 This brings us to the first quiz. After every lesson in this course we'll have a short quiz, in which we'll ask you to
 write down what you learned in this lesson in this blue box here. These quizzes have two goals.
